@@ -34,7 +34,7 @@ body {
   padding: 20px;
 }
 
-.card-container .c-card__body__title {
+.card-container .c-card__title {
   font-size: 15px;
   font-weight: 700;
   line-height: 1.2;
@@ -43,13 +43,13 @@ body {
   text-transform: uppercase;
 }
 
-.card-container .c-card__body .__subtitle {
+.card-container .c-card__subtitle {
   font-size: 13px;
   margin-top: 5px;
   padding: 0;
 }
 
-.card-container .c-card__body .__intro {
+.card-container .c-card__intro {
   margin-bottom: 0;
 }
 

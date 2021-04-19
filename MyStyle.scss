@@ -32,31 +32,30 @@ body {
       &__body{
         
         padding: 20px;
-        
-            &__title{
-                
-                font-size: 15px;
-                font-weight: 700;
-                line-height: 1.2;
-                margin: 0;
-                padding: 0;
-                text-transform: uppercase;
-                
-            }
-            .__subtitle{
-        
-                font-size: 13px;
-                margin-top: 5px;
-                padding: 0;
-
-            }
-                
-            .__intro {
-                margin-bottom: 0;
-            }
-
-
+      
         }    
+
+        &__title{
+                
+          font-size: 15px;
+          font-weight: 700;
+          line-height: 1.2;
+          margin: 0;
+          padding: 0;
+          text-transform: uppercase;
+          
+      }
+      &__subtitle{
+  
+          font-size: 13px;
+          margin-top: 5px;
+          padding: 0;
+
+      }
+          
+      &__intro {
+          margin-bottom: 0;
+      }
 
     &__image {
 
